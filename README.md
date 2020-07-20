@@ -1,2 +1,2 @@
-# zbrew-bgz
-Dependency Based Build zbrew repo
+# zospm-bgz
+Dependency Based Build zospm repo
